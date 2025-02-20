@@ -7,8 +7,7 @@ This repository contains Python projects showcasing my expertise in:
 
 Each project has its own folder with:
 - 📌 Code samples & scripts  
-- 📌 Installation instructions  
-- 📌 Detailed documentation  
+- 📌 Installation instructions   
 
 ---
 
