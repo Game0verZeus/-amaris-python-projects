@@ -13,4 +13,4 @@ This folder contains a **FastAPI** application running inside a **Docker** conta
 
 1. **Build the Docker image**:
    ```bash
-   docker build -t fastapi-docker .
+   docker build -t fastapi-docker 
